@@ -1,0 +1,20 @@
+.container-foot{
+  text-align:center;
+  padding:60px;
+  background-color:#2c2b2b;
+  display:block;
+}
+
+.links a{
+  font-size:40px;
+  color:#1e73dd66;
+}
+
+.links a:hover{
+  color:white;
+}
+
+.links h3{
+  color:white;
+  opacity:.7;
+}

@@ -1,0 +1,21 @@
+@import url("component/banner.css");
+@import url("component/card.css");
+@import url("component/foot.css");
+
+body {
+  margin: 0;
+  font-family: 'Poppins', sans-serif;
+  display:block;
+}
+
+h1, h2, h3, p,a {
+  font-family: Raleway, Helvetica, sans-serif;
+}
+
+h1{
+  color:white;
+}
+a {
+  text-decoration: none;
+}
+
